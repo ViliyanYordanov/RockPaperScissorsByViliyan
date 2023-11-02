@@ -3,7 +3,7 @@ This is a simple console game "Rock, Paper, Scissors"
 
 #This is my first project on GitHub. I'm trying to figure out GitHub and it's possibilities.
 
-<img alt="Image" width="200px" src="https://www.google.com/search?q=rock%20paper%20scissors&tbm=isch&tbs=isz:l&hl=en&sa=X&ved=0CAIQpwVqFwoTCIDr7pajpYIDFQAAAAAdAAAAABAD&biw=1903&bih=941#imgrc=CrclClVATeQ2GM"
+![image](https://github.com/ViliyanYordanov/RockPaperScissorsByViliyan/assets/149067711/1264068f-4fa6-4beb-9047-c51ce0accdc1)
 
 Rock-Paper-Scissors is a simple two-player game, where you and your opponent (the computer) simultaneously choose one of the following three options: "rock", "paper", or "scissors". The rules are as follows: 
 
